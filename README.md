@@ -1,4 +1,4 @@
-# dumb_game_project
+# game_project
 
 This project is an attempt to learn more about mobile app development.
 ## Setting up
